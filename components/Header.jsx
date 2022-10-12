@@ -21,6 +21,7 @@ function Header() {
         <HeaderItem title="ACCOUNT" Icon={UserIcon} />
       </div>
       <Image
+        alt=""
         src="https://links.papareact.com/ua6"
         className="object-contain"
         width={200}
